@@ -6,4 +6,4 @@
 
 ### Lessons
 
-- [Locating Random Transgene Insertions](https://github.com/Tycour/crisanti-toolshed/blob/main/docs/lessons/nanopore_data_analysis.ipynb)
+- [Locating Random Transgene Insertions](https://github.com/Tycour/crisanti-toolshed/blob/main/docs/lessons/locating_transgenes.md)
