@@ -1,4 +1,4 @@
-# Locating Transgene Insertions: Tutorial
+# Locating Transgene Insertions
 
 Before starting this tutorial, you need to be familiar with using `conda` and installing packages in the terminal.
 
