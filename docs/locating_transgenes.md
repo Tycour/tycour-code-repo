@@ -37,7 +37,7 @@ If you can see a spike of reads at 3.6kb, this might mean your library prep has 
 NanoPlot --fastq lineName_pass.fastq.gz -o NanoPlot
 ```
 
-#3. Filtering Reads
+# 3. Filtering Reads
 
 There are other options you can check out using `filtlong -h` that give you more control over filtering. However, this command should work roughly on any kind of data.
 
@@ -86,4 +86,4 @@ Go to the contig that represents your construct and click on reads that cover th
 
 ---
 
-Back to [Main Page](https://github.com/Tycour/crisanti-toolshed/blob/main/docs/index.md)
+Back to [Main Page](index.md)
