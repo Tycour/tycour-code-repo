@@ -2,6 +2,7 @@ import re
 import pandas as pd
 import xlrd
 
+### PAM is NGG by default
 pam='NGG'
 df = pd.read_excel('~/Downloads/candidateYkmers.xltx')
 

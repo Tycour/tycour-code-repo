@@ -86,4 +86,4 @@ Go to the contig that represents your construct and click on reads that cover th
 
 ---
 
-Back to [Main Page](https://github.com/Tycour/crisanti-toolshed/blob/main/docs/index.md)
+Back to [crisanti-toolshed](index.md)
