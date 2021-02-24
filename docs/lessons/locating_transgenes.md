@@ -37,7 +37,7 @@ If you can see a spike of reads at 3.6kb, this might mean your library prep has 
 NanoPlot --fastq lineName_pass.fastq.gz -o NanoPlot
 ```
 
-#3. Filtering Reads
+# 3. Filtering Reads
 
 There are other options you can check out using `filtlong -h` that give you more control over filtering. However, this command should work roughly on any kind of data.
 
@@ -49,7 +49,7 @@ filtlong --min_length 1000 --min_mean_q 75 lineName_pass.fastq.gz > lineName_fil
 
 # 4. Aligning Reads to Reference Genome
 
-Before this step, add an extra contig representing your contruct to the end of the genome reference fasta file. This is `AgamP4_lineName.fasta` in the following command.
+Before this step, add an extra contig representing your construct to the end of the genome reference fasta file. This is `AgamP4_lineName.fasta` in the following command.
 
 ```
 minimap2 -a -o lineName_AgamP4_align.sam AgamP4_lineName.fasta lineName_filter.fastq.gz
@@ -86,4 +86,4 @@ Go to the contig that represents your construct and click on reads that cover th
 
 ---
 
-Back to [crisanti-toolshed](index.md)
+Back to [crisanti-toolshed](../index.md)

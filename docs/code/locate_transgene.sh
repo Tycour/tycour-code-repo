@@ -16,7 +16,7 @@
 
 NanoPlot --fastq lineName_pass.fastq.gz -o NanoPlot
 
-#3. Filtering Reads
+# 3. Filtering Reads
 
 filtlong --min_length 1000 --min_mean_q 75 lineName_pass.fastq.gz > lineName_filter.fastq.gz
 
