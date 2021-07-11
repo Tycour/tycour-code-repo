@@ -2,14 +2,25 @@
 
 A repository of various lessons and bits of code for the Crisanti Lab.
 
-## Content
+# Lessons
 
-### Lessons
+## Locating Random Transgene Insertions:
+- [Step by step guide](lessons/locating_transgenes.md)
 
-- [Locating Random Transgene Insertions](lessons/locating_transgenes.md)
-- Coding Club (TBA)
+> Automated Nextflow pipeline now available [here](https://github.com/Tycour/locate-transgene).
+
+## Coding Club:
+- [Finding Motifs in DNA](lessons/Finding_Motifs_Exercise.ipynb)
+- [Regular Expressions (RegEx)](lessons/Regular_Expression.ipynb)
+- [RegEx Homework](lessons/RegEx_Homework.ipynb)
+- [Data Visualisation with Seaborn](lessons/Gotta_learn_em_all_Plotting_with_Seaborn.ipynb)
 - HPC (TBA)
 
-### Code
+# Code Snippets
 
-- [PAMfilter.py](https://github.com/Tycour/crisanti-toolshed/blob/main/docs/code/PAMfilter.py)
+For Matteo:
+- [PAMfilter.py](code/PAMfilter.py)
+- [locateKmer.py](code/locateKmer.py)
+
+Other:
+- [Ag(PMB)1 visuals](code/PMB1_align_visuals.ipynb) for publication
