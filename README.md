@@ -1,5 +1,5 @@
-# crisanti-toolshed
+# tycour Code Repository
 
-A repository of various pieces of code and tutorial lessons for the Crisanti Lab.
+A repository of pieces of code written whilst working at Crisanti and Neil Labs, as well as Python Coding Club lessons co-hosted by Nace Kranjc (@nkranjc) and myself.
 
-- [crisanti-toolshed](https://tycour.github.io/crisanti-toolshed/)
+- [tycour-Code-Repo](https://tycour.github.io/tycour-code-repo/)
