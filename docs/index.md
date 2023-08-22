@@ -1,15 +1,32 @@
-# Crisanti Toolshed
+# Tycour's Code Repo
 
-A repository of various lessons and bits of code for the Crisanti Lab.
+A repository for pieces of code written whilst working at the Crisanti and Neil labs.
 
 ---
 
-# Lessons
+# Nanopore Sequencing
 
 ## Locating Random Transgene Insertions:
-- [Step by step guide](lessons/locating_transgenes.md)
+- [Step by step tutorial](lessons/locating_transgenes.md)
 
 > Automated Nextflow pipeline now available [here](https://github.com/Tycour/locate-transgene).
+
+# Code Snippets
+
+For Matteo:
+
+- [PAMfilter.py](https://github.com/Tycour/crisanti-toolshed/blob/main/docs/code/PAMfilter.py) - Finds any given PAM in a given sequence file and registers their index
+
+- [locateKmer.py](https://github.com/Tycour/crisanti-toolshed/blob/main/docs/code/locateKmer.py) - Same as above but for any kmer
+
+Other:
+- [Ag(PMB)1 visuals](https://github.com/Tycour/crisanti-toolshed/blob/main/docs/code/PMB1_align_visuals.ipynb) for publication - doi.org/10.1080/20477724.2022.2100192
+
+- [Guido](https://github.com/nkran/guido) - doi.org/10.5281/zenodo.8056051
+
+- [Principal Component Analysis](code/PCA.ipynb)
+
+# Python Coding Club
 
 ## Coding Club:
 
@@ -36,22 +53,3 @@ A repository of various lessons and bits of code for the Crisanti Lab.
 - [RegEx Homework](https://github.com/Tycour/crisanti-toolshed/blob/main/docs/lessons/RegEx_Homework.ipynb)
 - [Data Visualisation with Seaborn](https://github.com/Tycour/crisanti-toolshed/blob/main/docs/lessons/Gotta_learn_em_all_Plotting_with_Seaborn.ipynb)
 - HPC (TBA)
-
----
-
-# Code Snippets
-
-For Matteo:
-
-- [PAMfilter.py](https://github.com/Tycour/crisanti-toolshed/blob/main/docs/code/PAMfilter.py)
-  
-
-- [locateKmer.py](https://github.com/Tycour/crisanti-toolshed/blob/main/docs/code/locateKmer.py)
-
-Other:
-
-- [Ag(PMB)1 visuals](https://github.com/Tycour/crisanti-toolshed/blob/main/docs/code/PMB1_align_visuals.ipynb) for publication
-  
-
-- [Guido](https://github.com/nkran/guido)
-> Private repo until publication (soon hopefully)
