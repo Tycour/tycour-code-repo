@@ -24,7 +24,7 @@ Other:
 
 - [Guido](https://github.com/nkran/guido) - doi.org/10.5281/zenodo.8056051
 
-- [Principal Component Analysis](code/PCA.ipynb)
+- [Principal Component Analysis](https://github.com/Tycour/tycour-code-repo/blob/main/docs/code/PCA.ipynb)
 
 # Python Coding Club
 
